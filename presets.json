@@ -1,0 +1,4 @@
+[
+  { "name": "ATL-SFH-3d", "location": "Atlanta, GA", "listing_type": "for_sale", "past_days": 3, "property_type": "single_family", "exclude_pending": true },
+  { "name": "Dunwoody-Any-7d", "location": "Dunwoody, GA", "listing_type": "for_sale", "past_days": 7, "property_type": "any", "exclude_pending": true }
+]
